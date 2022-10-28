@@ -1,6 +1,6 @@
 name: Commit Linter
 
-description: Lints Pull Request commit messages with commitlint
+description: Lints Pull Request commit messages with commitlint based on wagoid/commitlint-github-action
 author: Ondrej Winter
 
 runs:
